@@ -1,0 +1,52 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#E5E5E5"/>
+<g id="Grover-Grocery Food Delivery Website" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="4720" transform="translate(-1250 -58)" fill="white"/>
+<g id="Header">
+<g id="Header_2">
+<g id="Navigation">
+<g id="Search bar">
+<g id="fill" filter="url(#filter0_d_0_1)">
+<path d="M-245 -5C-245 -9.41828 -241.418 -13 -237 -13H36C40.4183 -13 44 -9.41828 44 -5V33C44 37.4183 40.4183 41 36 41H-237C-241.418 41 -245 37.4183 -245 33V-5Z" fill="white"/>
+</g>
+<g id="number">
+<g id="fill_2" filter="url(#filter1_d_0_1)">
+<circle cx="41" cy="-12" r="14" fill="#F54B4B"/>
+</g>
+</g>
+<g id="icon">
+<g id="Group 1000002450">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M1.01408 10.0841C0.9409 9.79136 1.16228 9.50781 1.46398 9.50781H22.536C22.8377 9.50781 23.0591 9.79136 22.986 10.0841L20.0593 21.7903C19.9561 22.2032 19.5851 22.4928 19.1595 22.4928H4.84044C4.41484 22.4928 4.04385 22.2032 3.94063 21.7903L1.01408 10.0841ZM12.75 13.6253C12.75 13.2111 12.4142 12.8753 12 12.8753C11.5858 12.8753 11.25 13.2111 11.25 13.6253V18.3753C11.25 18.7895 11.5858 19.1253 12 19.1253C12.4142 19.1253 12.75 18.7895 12.75 18.3753V13.6253ZM17.0688 13.0638C17.458 13.2055 17.6588 13.6359 17.517 14.0251L15.8925 18.4886C15.7508 18.8779 15.3204 19.0786 14.9312 18.9369C14.542 18.7952 14.3413 18.3648 14.483 17.9756L16.1075 13.5121C16.2492 13.1228 16.6796 12.9221 17.0688 13.0638ZM7.89245 13.5121C7.7508 13.1228 7.3204 12.9221 6.9312 13.0638C6.54195 13.2055 6.34125 13.6359 6.48295 14.0251L8.1075 18.4886C8.2492 18.8779 8.6796 19.0786 9.0688 18.9369C9.45805 18.7952 9.65875 18.3648 9.51705 17.9756L7.89245 13.5121Z" fill="#3C3737"/>
+<path id="Vector_2" d="M18.5 10.5L13.5887 4.07758C12.7882 3.03078 11.2118 3.03078 10.4113 4.07758L5.5 10.5" stroke="#3C3737" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-295" y="-43" width="389" height="154" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<filter id="filter1_d_0_1" x="3" y="-35" width="64" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="6" operator="erode" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dx="-6" dy="9"/>
+<feGaussianBlur stdDeviation="12"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.933333 0 0 0 0 0.262745 0 0 0 0 0.262745 0 0 0 0.68 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="4720" fill="white" transform="translate(-1250 -58)"/>
+</clipPath>
+</defs>
+</svg>
